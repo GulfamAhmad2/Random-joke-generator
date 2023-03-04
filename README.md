@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Random joke generator
+- I have used useState and useEffect hooks
+- it is a full responsive
+
+![cover](https://user-images.githubusercontent.com/112485199/222917615-5dd53fab-1711-4c56-99d4-45db68d6d8df.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
